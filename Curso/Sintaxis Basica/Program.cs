@@ -6,9 +6,8 @@ namespace SintaxisBasica
     {
         static void Main(string[] args)
         {
-            var edadPersona = "Hola";
-
-            
+            Console.WriteLine("Introduce el primer numero");
+            Console.ReadLine();
         }
     }
 }
