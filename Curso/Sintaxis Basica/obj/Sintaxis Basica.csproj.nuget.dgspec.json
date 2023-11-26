@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angel Brito\\source\\repos\\Curso.CSharp\\Curso\\Sintaxis Basica\\Sintaxis Basica.csproj": {}
+    "/Users/angelj.soriano/Todo ITLA/Curso.CSharp/Curso/Sintaxis Basica/Sintaxis Basica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angel Brito\\source\\repos\\Curso.CSharp\\Curso\\Sintaxis Basica\\Sintaxis Basica.csproj": {
+    "/Users/angelj.soriano/Todo ITLA/Curso.CSharp/Curso/Sintaxis Basica/Sintaxis Basica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel Brito\\source\\repos\\Curso.CSharp\\Curso\\Sintaxis Basica\\Sintaxis Basica.csproj",
+        "projectUniqueName": "/Users/angelj.soriano/Todo ITLA/Curso.CSharp/Curso/Sintaxis Basica/Sintaxis Basica.csproj",
         "projectName": "Sintaxis Basica",
-        "projectPath": "C:\\Users\\Angel Brito\\source\\repos\\Curso.CSharp\\Curso\\Sintaxis Basica\\Sintaxis Basica.csproj",
-        "packagesPath": "C:\\Users\\Angel Brito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel Brito\\source\\repos\\Curso.CSharp\\Curso\\Sintaxis Basica\\obj\\",
+        "projectPath": "/Users/angelj.soriano/Todo ITLA/Curso.CSharp/Curso/Sintaxis Basica/Sintaxis Basica.csproj",
+        "packagesPath": "/Users/angelj.soriano/.nuget/packages/",
+        "outputPath": "/Users/angelj.soriano/Todo ITLA/Curso.CSharp/Curso/Sintaxis Basica/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Angel Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/angelj.soriano/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
